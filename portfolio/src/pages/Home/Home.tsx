@@ -6,5 +6,5 @@ const Home = () => {
     );
   }
   
-  export default Home;aa
+  export default Home;
   
